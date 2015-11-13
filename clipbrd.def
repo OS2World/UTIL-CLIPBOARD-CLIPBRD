@@ -1,0 +1,5 @@
+NAME CLIPBRD WINDOWCOMPAT
+
+DESCRIPTION     "clipbrd, access clipboard from the commandline"
+PROTMODE
+STACKSIZE       8192

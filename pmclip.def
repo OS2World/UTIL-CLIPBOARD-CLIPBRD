@@ -1,0 +1,5 @@
+NAME PMCLIP WINDOWAPI
+
+DESCRIPTION     "PMclip, PM server for clipbrd"
+PROTMODE
+STACKSIZE       8192
